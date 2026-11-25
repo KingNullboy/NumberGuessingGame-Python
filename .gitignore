@@ -1,0 +1,9 @@
+save.txt
+node_modules/
+target/
+build/
+out/
+*.class
+*.jar
+*.log
+.DS_Store
